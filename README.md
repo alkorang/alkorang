@@ -1,4 +1,4 @@
-## Hi there 👋
+## Visit https://github.com/yeonsookimdev
 
 <!--
 **alkorang/alkorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
